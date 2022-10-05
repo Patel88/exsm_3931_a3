@@ -1,0 +1,14 @@
+Function Hungry Customer {
+	See's snack they like
+	Put coins into machine
+	Enter snack code
+	Snack is released from machine
+	If you have change it is released from machine 
+}
+
+Function Machine Owner {
+	Check if Machine has made sale
+	Unlcok Machine with key
+	Check if snacks are stocked
+	Empty coin storage
+]
