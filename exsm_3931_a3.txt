@@ -8,7 +8,7 @@ Function Hungry Customer {
 
 Function Machine Owner {
 	Check if Machine has made sale
-	Unlcok Machine with key
+	Unlock Machine with key
 	Check if snacks are stocked
 	Empty coin storage
 ]
